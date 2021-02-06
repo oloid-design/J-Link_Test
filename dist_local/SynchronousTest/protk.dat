@@ -1,0 +1,10 @@
+name                Launcher
+startup 			JAVA
+java_app_class      com.oloid_design.jlink.Launcher
+java_app_start		start
+java_app_stop		stop
+java_app_classpath  D:\oloid-design\Projektmanagement\interne_Projekte\oloid-design_IP0001_J-Link_Schulung\003_J-Link_synchron_Test\dist_local\SynchronousTest
+text_dir            D:\oloid-design\Projektmanagement\interne_Projekte\oloid-design_IP0001_J-Link_Schulung\003_J-Link_synchron_Test\dist_local\SynchronousTest
+allow_stop			true
+delay_start			false
+end
